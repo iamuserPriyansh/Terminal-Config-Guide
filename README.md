@@ -37,7 +37,7 @@
     
 - **Palette ↠ Custom**
     
-    ![Palette.png](Assets/Palette.png)
+    <a href="https://ibb.co/Rh5DZGw"><img src="https://i.ibb.co/3fJCG5Z/Palette.png" alt="Palette" border="0"></a><br>
  <a herf="">Color Code</a>
 ### Scrolling
 
@@ -61,13 +61,13 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 • Find the line ZSH_THEME="robbyrussell" replace `robbyrussell` with fino theme in `.zshrc` File (**CTRL + X & Enter to Save**)
 
-![Theme Image](Assets/Theme.png)
+<a href="https://ibb.co/p25NRVR"><img src="https://i.ibb.co/8MtGdvd/Theme.png" alt="Theme" border="0"></a><br>
 
 ### Plugins
 
 open `Terminal` and go to `home directory` 
 
-![Terminal](Assets/ls.png)
+<a href="https://ibb.co/Jx1F7f2"><img src="https://i.ibb.co/bH0RBSL/ls.png" alt="ls" border="0"></a><br>
 
 ```jsx
 cd .oh-my-zsh/custom/plugins
@@ -96,7 +96,7 @@ zsh-syntax-highlighting
 zsh-autosuggestions
 ```
 
-![Plugins](Plugins.png)
+<a href="https://ibb.co/3cnNZQZ"><img src="https://i.ibb.co/x6NjTdT/Plugins.png" alt="Plugins" border="0"></a><br>
 
 ---
 # HomeBrew
