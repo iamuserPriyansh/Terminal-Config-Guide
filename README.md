@@ -28,19 +28,18 @@
     
     Terminal Sound ↠ Disabled
     
-
 ### Colors
 
 - **Text and Background Color ↠ Custom**
    <a href="https://ibb.co/5cS1GjF"><img src="https://i.ibb.co/q1cD7g5/Color-Scheme.png" alt="Color-Scheme" border="0"></a><br>
-    <a herf="">Color Code</a>
+    <a herf="https://ibb.co/s1F06Zy">Color Code</a>
     
 - **Palette ↠ Custom**
     
     <a href="https://ibb.co/Rh5DZGw"><img src="https://i.ibb.co/3fJCG5Z/Palette.png" alt="Palette" border="0"></a><br>
- <a herf="">Color Code</a>
-### Scrolling
+ <a herf="https://ibb.co/s1F06Zy">Color Code</a>
 
+### Scrolling
 Show Scrollbar ↠ Disabled
 Scroll on output ↠ Disabled
 Scroll on keystroke ↠ Enabled
