@@ -1,4 +1,5 @@
 # Terminal Config
+<a href="https://ibb.co/FKqyfWD"><img src="https://i.ibb.co/XbkKd4C/Full-Terminal.png" alt="Full-Terminal" border="0"></a>
 ---
 # Appereance
 
