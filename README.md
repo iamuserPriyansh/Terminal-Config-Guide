@@ -62,7 +62,7 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 • Find the line ZSH_THEME="robbyrussell" replace `robbyrussell` with fino theme in `.zshrc` File (**CTRL + X & Enter to Save**)
 
-![Screenshot from 2023-10-12 14-53-48.png](Theme.png)
+![Theme Image](Theme.png)
 
 ### Plugins
 
