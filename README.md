@@ -32,7 +32,7 @@
 ### Colors
 
 - **Text and Background Color ↠ Custom**
-   <a href="https://ibb.co/8KGS14j"><img src="https://i.ibb.co/8KGS14j/Color-Scheme.png" alt="Color-Scheme"></a> <br>
+   <a href="https://ibb.co/5cS1GjF"><img src="https://i.ibb.co/q1cD7g5/Color-Scheme.png" alt="Color-Scheme" border="0"></a><br>
     <a herf="">Color Code</a>
     
 - **Palette ↠ Custom**
