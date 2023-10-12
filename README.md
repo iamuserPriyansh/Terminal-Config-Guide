@@ -62,13 +62,13 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 • Find the line ZSH_THEME="robbyrussell" replace `robbyrussell` with fino theme in `.zshrc` File (**CTRL + X & Enter to Save**)
 
-![Theme Image](Theme.png)
+![Theme Image](Assets/Theme.png)
 
 ### Plugins
 
 open `Terminal` and go to `home directory` 
 
-![Group 25.png](ls.png)
+![Terminal](Assets/ls.png)
 
 ```jsx
 cd .oh-my-zsh/custom/plugins
@@ -97,7 +97,7 @@ zsh-syntax-highlighting
 zsh-autosuggestions
 ```
 
-![Screenshot from 2023-10-12 14-55-54.png](Plugins.png)
+![Plugins](Plugins.png)
 
 ---
 # HomeBrew
