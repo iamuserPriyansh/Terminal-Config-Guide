@@ -32,7 +32,7 @@
 ### Colors
 
 - **Text and Background Color ↠ Custom**
-    
+    <img src="https://github.com/iamuserPriyansh/Terminal-Config/blob/main/Assets/Color_Scheme.png">
     ![Color Scheme.png](Assets/Color_Scheme.png)
     <a herf="">Color Code</a>
     
